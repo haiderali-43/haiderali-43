@@ -11,7 +11,6 @@ Hello there! I'm Haider Ali, a MERN (MongoDB, Express.js, React.js, Node.js) sta
 - **Frontend Development:** React.js, Next.js
 - **Backend Development:** Node.js, Express.js
 - **Styling:** Tailwind CSS
-- **Data Science:** Python (for data analysis and machine learning)
 
 
 
