@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Haider Ali
 
-🔐 **SOC Level 1 Analyst | Threat Hunter | Blue Team Enthusiast**
+🔐 **SOC Analyst | Threat Hunter | Blue Team Enthusiast**
 
-I am a detail-oriented and highly motivated **SOC Level 1 Analyst** with hands-on experience in **security monitoring, threat detection, vulnerability analysis, and incident triage**. I have a strong foundation in **SIEM technologies, network security, web application security, and log analysis**, combined with practical exposure to **penetration testing tools and security research**.
+I am a detail-oriented and highly motivated **SOC Analyst** with hands-on experience in **security monitoring, threat detection, vulnerability analysis, and incident triage**. I have a strong foundation in **SIEM technologies, network security, web application security, and log analysis**, combined with practical exposure to **penetration testing tools and security research**.
 
 I am passionate about defending organizations against real-world cyber threats and actively seeking opportunities to contribute to **24/7 SOC operations, alert investigation, and incident response**.
 
