@@ -1,7 +1,3 @@
-Here’s a clean, professional **GitHub README profile response** tailored for a **SOC Level 1 Analyst / Blue Team** profile. You can paste this directly into your `README.md` and customize names, links, or tools as needed.
-
----
-
 # 👋 Hi, I’m Haider
 
 🔐 **SOC Level 1 Analyst | Threat Hunter | Blue Team Enthusiast**
