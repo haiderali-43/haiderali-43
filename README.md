@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Haider
+# 👋 Hi, I’m Haider Ali
 
 🔐 **SOC Level 1 Analyst | Threat Hunter | Blue Team Enthusiast**
 
