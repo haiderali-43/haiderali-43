@@ -57,16 +57,6 @@ I am passionate about defending organizations against real-world cyber threats a
 
 ---
 
-## 📂 What You’ll Find Here
-
-* SOC lab projects and SIEM configurations
-* Log analysis and threat detection use cases
-* Vulnerability assessment reports
-* Blue Team and defensive security research
-* Write-ups and documentation from hands-on labs
-
----
-
 ## 🚀 Career Objective
 
 To secure a **SOC Level 1 Analyst** role where I can apply my technical skills, continuously learn from real-world incidents, and contribute to strengthening an organization’s security posture through proactive monitoring and rapid incident response.
