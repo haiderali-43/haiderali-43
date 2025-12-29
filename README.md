@@ -1,7 +1,3 @@
-Here’s a polished way to **add your education and learning interest** while keeping the profile professional and recruiter-friendly. You can paste this directly into your profile.
-
----
-
 ### 👋 Hi, I’m Haider Ali
 
 🔐 **SOC Analyst | Threat Hunter | Blue Team Enthusiast**
